@@ -43,6 +43,8 @@ plot(pattern, -π/2, π/2, COPOLAR::AntennaPatternPolarization, color=7)
 
 ### Space Station Antenna Patterns
 
+#### Standard
+
 - [ ] APSRR_402V01
 - [ ] APSREC407V01
 - [ ] APSREC408V01
@@ -52,4 +54,3 @@ plot(pattern, -π/2, π/2, COPOLAR::AntennaPatternPolarization, color=7)
 - [ ] APSND_499V01
 - [ ] REC-1528
 
-#### Standard
